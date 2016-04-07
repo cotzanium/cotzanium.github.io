@@ -21,7 +21,6 @@ address:
 copyright: cotzanium
 
 # API settings
-google_api_key: AIzaSyBy1o8xtwAQjqCRpb5QW0SKbRzynyikVGc
 
 # Build settings
 markdown: kramdown
