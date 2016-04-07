@@ -12,8 +12,8 @@ url: "cotzanium.github.io" # the base hostname & protocol for your site
 owner: Chris Zumbika
 email: name@example.com
 facebook_username: example
-twitter_username: example
-github_username: example
+500px_username: cotzanium
+github_username: cotzanium
 address:
   - line: Braamfontein
   - line: "Johannesburg, Gauteng 2001"
