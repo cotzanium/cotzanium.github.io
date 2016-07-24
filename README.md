@@ -1,7 +1,6 @@
 # Personal Portifolio
 
-My personal portifolio
-This portifolio uses a modified version of the [Halve Theme](http://taylantatli.github.io/Halve) by [Taylan Tatlı](https://github.com/TaylanTatli).
+My personal portifolio. This portifolio uses a modified version of the [Halve Theme](http://taylantatli.github.io/Halve) by [Taylan Tatlı](https://github.com/TaylanTatli).
 
 Visit [http://cotzanium.github.io/](http://cotzanium.github.io/) to see a live version of the portifolio hosted on GitHub-Pages.
 
