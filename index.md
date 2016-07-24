@@ -7,4 +7,4 @@ Hi, I’m Chris. I hold a [Bachelor of Science in Electrical Engineering](https:
 
 I work at the University of the Witwatersrand where I’m a [Graduate Business Intelligence Engineer](https://www.linkedin.com/in/chriszumbika) focusing on data warehousing, ETL, reporting and data analytics. In the past I've worked as a [Software Developer](https://www.linkedin.com/in/chriszumbika) at Infoware Studios, University of the Witwatesrand, Hyperion Development South Africa and Joburg Centre for Software Engineering where I developed and mantained bespoke software. You can visit my [Linkedin](https://www.linkedin.com/in/chriszumbika) profile for more information.
 
-I enjoy hiking, [photography](https://www.500px.com/cotzanium) and learning new things.
+I enjoy volunteering, hiking, [photography](https://www.500px.com/cotzanium) and learning new things.
