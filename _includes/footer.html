@@ -1,0 +1,16 @@
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text-center">
+        <p>
+          {% for address in site.address %}
+          {{ address.line }}<br>
+          {% endfor %}
+        </p>
+        <hr class="small">
+        <p class="text-muted">Copyright &copy; {{ site.github }} 20{{ site.time | date: '%y' }}. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
