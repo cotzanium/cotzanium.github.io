@@ -2,3 +2,8 @@
   url: http://hyperiondev.com/
   image: https://raw.githubusercontent.com/cotzanium/cotzanium.github.io/master/images/hyperiondev.png
   completed: true
+
+- title: Wits Energy Metering Project
+  url: #
+  image: /images/energy.png
+  completed: true
