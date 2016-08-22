@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-03T17:14:08+02:00</updated><id>/</id><title>Chris Zumbika</title><subtitle>Software Dev - Data Analytics - Electronics - Photography</subtitle><entry><title>Halve Jekyll Theme</title><link href="/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00+02:00</published><updated>2016-05-29T00:00:00+02:00</updated><id>/halve-theme</id><content type="html" xml:base="/halve-theme/">&lt;p&gt;&lt;a href=&quot;/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-22T07:43:20+02:00</updated><id>/</id><title>Chris Zumbika</title><subtitle>Software Dev - Data Analytics - Electronics - Photography</subtitle><entry><title>Halve Jekyll Theme</title><link href="/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00+02:00</published><updated>2016-05-29T00:00:00+02:00</updated><id>/halve-theme</id><content type="html" xml:base="/halve-theme/">&lt;p&gt;&lt;a href=&quot;/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -266,10 +266,7 @@ image: http://example.com/some-image.png
 
 &lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
 
-&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/e813c2560b0f1ecc9f5d.js?file=pacman.patch&quot;&gt; &lt;/script&gt;
-
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/e813c2560b0f1ecc9f5d.js?file=pacman.patch&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
