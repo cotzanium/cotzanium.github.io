@@ -1,6 +1,6 @@
 # Site
 title: Chris Zumbika
-description: Software Dev - Data Analytics - Electronics - Photography
+description: Humanist - Engineer - Photographer
 #url: http://localhost:4000
 logo: halve.png                                       # Site logo
 mypic: me.jpg
@@ -30,13 +30,13 @@ sass:
 google-analytics: UA-81292000-1 
 
 # Social Links
-email:             chriszumbika@gmail.com
+email:             info@chriszumbika.me
 #google.plus:        cotzanium
 #facebook:           cotzanium
 github:            cotzanium
 linkedin:          chriszumbika
 500px:              cotzanium
-#instagram:          cotzanium
+instagram:          takuzumbika
 #lastfm:            cotzanium
 #tumblr:            cotzanium
 #pinterest:         cotzanium
@@ -46,7 +46,7 @@ linkedin:          chriszumbika
 #youtube:           cotzanium
 #soundcloud:        cotzanium
 #weibo:             cotzanium
-flickr:            126344785@N08
+#flickr:            126344785@N08
 #codepen:           cotzanium
 #keybase:           cotzanium
 #xmpp:              cotzanium@server.com
@@ -54,7 +54,7 @@ flickr:            126344785@N08
 #behance:           cotzanium
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
