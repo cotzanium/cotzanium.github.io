@@ -2,8 +2,6 @@
 
 My personal portifolio. This portifolio uses a modified version of the [Halve Theme](http://taylantatli.github.io/Halve) by [Taylan Tatlı](https://github.com/TaylanTatli).
 
-Visit [http://chriszumbika.me/](http://chriszumbika.me) to see a live version of the portifolio hosted on [GitHub-Pages](https://pages.github.com/).
-
 # Credits
 - Theme: [Taylan Tatlı](https://github.com/TaylanTatli)
 - Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
