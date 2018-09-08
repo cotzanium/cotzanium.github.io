@@ -1,6 +1,6 @@
 # Site
 title: Chris Zumbika
-description: # Humanist - Engineer - Photographer
+description: Data Professional - Engineer # Humanist - Engineer - Photographer
 #url: http://localhost:4000
 logo: halve.png                                       # Site logo
 mypic: me.jpg
@@ -13,7 +13,7 @@ background:
   default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:title/s
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
