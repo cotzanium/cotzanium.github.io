@@ -1,6 +1,6 @@
 # Site
 title: Chris Zumbika
-description: Data Professional - Engineer # Humanist - Engineer - Photographer
+description: Data Professional - Engineer
 #url: http://localhost:4000
 logo: halve.png                                       # Site logo
 mypic: me.jpg
@@ -33,7 +33,7 @@ google-analytics: UA-81292000-1
 email:             info@chriszumbika.me
 #google.plus:        cotzanium
 #facebook:           cotzanium
-#github:            cotzanium
+github:            cotzanium
 linkedin:          chriszumbika
 #500px:              cotzanium
 instagram:          takuzumbika
