@@ -30,28 +30,10 @@ sass:
 google-analytics: UA-81292000-1 
 
 # Social Links
-#email:             abcd@efg.xyz
-#google.plus:        cotzanium
-#facebook:           cotzanium
 github:            cotzanium
 linkedin:          chriszumbika
-#500px:              cotzanium
-instagram:          takuzumbika
 acclaim:            chris-zumbika
-#tumblr:            cotzanium
-#pinterest:         cotzanium
-#foursquare:        cotzanium
-#steam:              cotzanium
-#dribbble:          cotzanium
-#youtube:           cotzanium
-#soundcloud:        cotzanium
-#weibo:             cotzanium
-#flickr:            126344785@N08
-#codepen:           cotzanium
-#keybase:           cotzanium
-#xmpp:              cotzanium@server.com
-#hackernews:        cotzanium
-#behance:           cotzanium
+
 
 # Gems
 plugins:
